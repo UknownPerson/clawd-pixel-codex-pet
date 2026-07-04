@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="724" height="526" viewBox="0 0 724 526" role="img" aria-label="Clawd Pixel Codex pet preview">
+  <rect width="724" height="526" fill="#ffffff"/>
+  <style>
+    .card{fill:#fafbfc;stroke:#d0d7de;stroke-width:1}.label{font:12px Arial,sans-serif;fill:#24292f}.body{fill:#e97c4d}.eye{fill:#050505}
+  </style>
+  <defs>
+    <g id="clawd">
+      <rect class="body" x="35" y="34" width="92" height="50"/>
+      <rect class="body" x="8" y="55" width="35" height="22"/>
+      <rect class="body" x="119" y="55" width="35" height="22"/>
+      <rect class="body" x="56" y="82" width="14" height="28"/>
+      <rect class="body" x="78" y="82" width="14" height="28"/>
+      <rect class="body" x="104" y="82" width="14" height="28"/>
+      <rect class="eye" x="56" y="47" width="11" height="11"/>
+      <rect class="eye" x="103" y="47" width="11" height="11"/>
+    </g>
+  </defs>
+  <g transform="translate(16 16)"><rect class="card" width="220" height="154" rx="6"/><text class="label" x="12" y="18">idle</text><use href="#clawd" transform="translate(28 33)"/></g>
+  <g transform="translate(252 16)"><rect class="card" width="220" height="154" rx="6"/><text class="label" x="12" y="18">running-right</text><use href="#clawd" transform="translate(28 33) skewX(-5)"/></g>
+  <g transform="translate(488 16)"><rect class="card" width="220" height="154" rx="6"/><text class="label" x="12" y="18">running-left</text><use href="#clawd" transform="translate(28 33) skewX(5)"/></g>
+  <g transform="translate(16 186)"><rect class="card" width="220" height="154" rx="6"/><text class="label" x="12" y="18">waving</text><use href="#clawd" transform="translate(28 33)"/><rect class="body" x="151" y="83" width="36" height="14" transform="rotate(-14 151 83)"/></g>
+  <g transform="translate(252 186)"><rect class="card" width="220" height="154" rx="6"/><text class="label" x="12" y="18">jumping</text><use href="#clawd" transform="translate(28 22) scale(1 1.15)"/></g>
+  <g transform="translate(488 186)"><rect class="card" width="220" height="154" rx="6"/><text class="label" x="12" y="18">failed</text><use href="#clawd" transform="translate(28 48) scale(1.08 .88)"/></g>
+  <g transform="translate(16 356)"><rect class="card" width="220" height="154" rx="6"/><text class="label" x="12" y="18">waiting</text><use href="#clawd" transform="translate(28 30) scale(1.03 1.05)"/></g>
+  <g transform="translate(252 356)"><rect class="card" width="220" height="154" rx="6"/><text class="label" x="12" y="18">running</text><use href="#clawd" transform="translate(28 39) skewX(6)"/></g>
+  <g transform="translate(488 356)"><rect class="card" width="220" height="154" rx="6"/><text class="label" x="12" y="18">review</text><use href="#clawd" transform="translate(28 36)"/><rect class="body" x="151" y="91" width="30" height="12"/></g>
+</svg>

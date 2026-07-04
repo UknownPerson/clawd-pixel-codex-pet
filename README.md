@@ -1,6 +1,6 @@
 # Clawd Pixel Codex Pet
 
-![Clawd Pixel preview](preview.png)
+<img width="976" height="730" alt="preview" src="https://github.com/user-attachments/assets/c1574eb3-005a-4508-acae-5ad40f59c3e6" />
 
 A fan-made pixel Clawd pet for Codex. It keeps the simple orange blocky Clawd look, with connected limbs, square black eyes, and a clean animated spritesheet for idle, waiting, running, review, failed, and directional movement states.
 

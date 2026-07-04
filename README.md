@@ -1,8 +1,10 @@
 # Clawd Pixel Codex Pet
 
-![Clawd Pixel contact sheet](contact-sheet.png)
+![Clawd Pixel preview](preview.png)
 
 A fan-made pixel Clawd pet for Codex. It keeps the simple orange blocky Clawd look, with connected limbs, square black eyes, and a cleaner animated spritesheet for idle, waiting, running, review, failed, and directional movement states.
+
+For the full animation QA sheet, see [`contact-sheet.png`](contact-sheet.png).
 
 ## Install
 
@@ -40,7 +42,8 @@ Direct runtime files:
 - `pet.json`: Codex pet manifest.
 - `spritesheet.webp`: Runtime spritesheet used by Codex.
 - `clawd-pixel.zip`: Install package containing only `pet.json` and `spritesheet.webp`.
-- `contact-sheet.png`: Preview image for checking all animation states.
+- `preview.png`: Compact README preview.
+- `contact-sheet.png`: Full QA image for checking all animation states.
 
 ## Notes
 

@@ -1,0 +1,6 @@
+{
+    "id":  "clawd-pixel",
+    "displayName":  "Clawd Pixel",
+    "description":  "A pixel-art Clawd mascot pet based on the provided orange blocky clawed reference image.",
+    "spritesheetPath":  "spritesheet.webp"
+}
